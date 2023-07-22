@@ -23,7 +23,7 @@ Kashif's Landing Page is a personal project aimed at creating an attractive land
 
 ## Getting Started
 
-To view the landing page, simply visit the [live demo](#insert-demo-link-here) and explore the design and functionality.
+To view the landing page, simply visit the [live demo](https://kashifkhaan.github.io/Responsive-Landing-page/) and explore the design and functionality.
 
 If you want to modify the landing page or use it as a template for your project, follow these steps:
 
